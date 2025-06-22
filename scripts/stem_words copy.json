@@ -1,0 +1,6375 @@
+{
+  "stems": [
+    {
+      "list": 1,
+      "stem": "ante",
+      "definition": "before",
+      "examples": [
+        "antedate",
+        "antecedent",
+        "antebellum",
+        "anterior",
+        "ante meridiem",
+        "antepenult"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "anti",
+      "definition": "against",
+      "examples": [
+        "antiaircraft",
+        "antibody",
+        "anticlimax",
+        "anticline",
+        "antitoxin",
+        "antithesis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 1,
+      "stem": "bi",
+      "definition": "two",
+      "examples": [
+        "bilateral",
+        "bicycle",
+        "binary",
+        "bimonthly",
+        "biped",
+        "bipolar",
+        "binocular",
+        "bicuspid"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "circum",
+      "definition": "around",
+      "examples": [
+        "circumnavigate",
+        "circumspect",
+        "circumvent",
+        "circumlocution",
+        "circus"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "com",
+      "definition": "together",
+      "examples": [
+        "combination",
+        "comfort",
+        "commensurate",
+        "common",
+        "complete",
+        "combo"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "con",
+      "definition": "together",
+      "examples": [
+        "contract",
+        "confidence",
+        "confine",
+        "confederate",
+        "conjunction",
+        "contact"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "de",
+      "definition": "down",
+      "examples": [
+        "deposit",
+        "descent",
+        "despicable",
+        "denounce",
+        "deduct",
+        "demolish",
+        "decrepit",
+        "deplete"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "dis",
+      "definition": "away",
+      "examples": [
+        "distract",
+        "distort",
+        "dispute",
+        "dissonant",
+        "disperse",
+        "dismiss",
+        "dissuade",
+        "disprove"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "equi",
+      "definition": "equal",
+      "examples": [
+        "equitable",
+        "equilateral",
+        "equivocate",
+        "equinox",
+        "equation",
+        "equilibrium"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "extra",
+      "definition": "beyond",
+      "examples": [
+        "extraterrestrial",
+        "extraordinary",
+        "extravagant",
+        "extrovert",
+        "extramural"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "inter",
+      "definition": "between",
+      "examples": [
+        "international",
+        "interdepartmental",
+        "interstellar",
+        "interject",
+        "interlude"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "intra",
+      "definition": "within",
+      "examples": [
+        "intracellular",
+        "intravenous",
+        "intracranial",
+        "intrastate",
+        "intrauterine"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "intro",
+      "definition": "into",
+      "examples": [
+        "introduce",
+        "introspective",
+        "introvert",
+        "introject",
+        "introrse",
+        "intromission"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "mal",
+      "definition": "bad",
+      "examples": [
+        "malevolent",
+        "malcontent",
+        "malicious",
+        "malign",
+        "malady",
+        "malapropism"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "mis",
+      "definition": "bad",
+      "examples": [
+        "misfit",
+        "mistake",
+        "misfortune",
+        "misfire",
+        "misdeed",
+        "misguided"
+      ],
+      "origin": "OE"
+    },
+    {
+      "list": 1,
+      "stem": "non",
+      "definition": "not",
+      "examples": [
+        "nonstop",
+        "nonprofit",
+        "nonconformity",
+        "nonplussed",
+        "nonchalant"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "post",
+      "definition": "after",
+      "examples": [
+        "postgraduate",
+        "posthumous",
+        "postscript",
+        "posterity",
+        "posterior",
+        "postlude"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "pre",
+      "definition": "before",
+      "examples": [
+        "prelude",
+        "preposition",
+        "premonition",
+        "premature",
+        "predict",
+        "predecessor"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "semi",
+      "definition": "half",
+      "examples": [
+        "semitone",
+        "semiaquatic",
+        "semicircle",
+        "semiweekly",
+        "semiannual",
+        "semiformal"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "sub",
+      "definition": "under",
+      "examples": [
+        "subterranean",
+        "subtract",
+        "subordinate",
+        "submarine",
+        "subterfuge",
+        "substantial"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "super",
+      "definition": "over",
+      "examples": [
+        "supervise",
+        "superb",
+        "superior",
+        "superfluous",
+        "supercilious",
+        "supernatural"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 1,
+      "stem": "syn",
+      "definition": "together",
+      "examples": [
+        "synthetic",
+        "synchronize",
+        "syndrome",
+        "synonym",
+        "synopsis",
+        "syntax"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 1,
+      "stem": "sym",
+      "definition": "together",
+      "examples": [
+        "sympathy",
+        "symbiosis",
+        "symbol",
+        "symmetry",
+        "symphony",
+        "symposium"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 1,
+      "stem": "un",
+      "definition": "not",
+      "examples": [
+        "unfit",
+        "unequal",
+        "undone",
+        "unequivocal",
+        "unearned",
+        "unconventional",
+        "untenable"
+      ],
+      "origin": "Germanic"
+    },
+    {
+      "list": 2,
+      "stem": "ad",
+      "definition": "to",
+      "examples": [
+        "adhesive",
+        "adapt",
+        "addendum",
+        "addition",
+        "adherent",
+        "addict",
+        "advent",
+        "advocate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "anthropo",
+      "definition": "man",
+      "examples": [
+        "anthropology",
+        "anthropomorphic",
+        "anthropoid",
+        "lycanthrope",
+        "misanthrope"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 2,
+      "stem": "aqua",
+      "definition": "water",
+      "examples": [
+        "aquarium",
+        "aquatic",
+        "aquaplane",
+        "aqueduct",
+        "aquifer",
+        "aqueous",
+        "semiaquatic"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "archy",
+      "definition": "government",
+      "examples": [
+        "monarchy",
+        "oligarchy",
+        "hierarchy",
+        "anarchy",
+        "matriarchal",
+        "patriarch"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 2,
+      "stem": "ard",
+      "definition": "always",
+      "examples": [
+        "drunkard",
+        "coward",
+        "braggart",
+        "laggard",
+        "dullard",
+        "sluggard",
+        "niggardly"
+      ],
+      "origin": "Germanic"
+    },
+    {
+      "list": 2,
+      "stem": "audi",
+      "definition": "hear",
+      "examples": [
+        "audiophile",
+        "audience",
+        "audition",
+        "auditory",
+        "audiometer",
+        "audit",
+        "audiology"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "auto",
+      "definition": "self",
+      "examples": [
+        "autobiography",
+        "automobile",
+        "autograph",
+        "automatic",
+        "automaton",
+        "autocracy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 2,
+      "stem": "bell",
+      "definition": "war",
+      "examples": [
+        "bellicose",
+        "belligerent",
+        "rebel",
+        "casus belli",
+        "rebellion"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "biblio",
+      "definition": "book",
+      "examples": [
+        "bibliography",
+        "bibliophile",
+        "bibliolatry",
+        "bible",
+        "bibliomania",
+        "bibliophobia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 2,
+      "stem": "bio",
+      "definition": "life",
+      "examples": [
+        "biography",
+        "biology",
+        "biomorphic",
+        "biochemistry",
+        "exobiology",
+        "biogenesis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 2,
+      "stem": "cap",
+      "definition": "take",
+      "examples": [
+        "capture",
+        "captive",
+        "captor",
+        "captious",
+        "captivate",
+        "captivity",
+        "caption",
+        "capsule"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "cede",
+      "definition": "go",
+      "examples": [
+        "recede",
+        "precede",
+        "antecedent",
+        "proceed",
+        "secede",
+        "concede",
+        "intercede",
+        "succeed"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "cent",
+      "definition": "one",
+      "examples": [
+        "hundred    century",
+        "bicentennial",
+        "centimeter",
+        "centipede",
+        "centurion"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "cide",
+      "definition": "kill",
+      "examples": [
+        "herbicide",
+        "homicide",
+        "matricide",
+        "suicide",
+        "regicide",
+        "genocide",
+        "fratricide"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "cise",
+      "definition": "cut",
+      "examples": [
+        "excise",
+        "incisors",
+        "incision",
+        "circumcise",
+        "incisive",
+        "precise",
+        "concise",
+        "decision"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "cred",
+      "definition": "believe",
+      "examples": [
+        "credit",
+        "incredible",
+        "credible",
+        "incredulous",
+        "discredited",
+        "credibility",
+        "credo"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "dict",
+      "definition": "say",
+      "examples": [
+        "dictionary",
+        "predict",
+        "malediction",
+        "dictation",
+        "addict",
+        "interdict",
+        "contradict"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "ician",
+      "definition": "specialist",
+      "examples": [
+        "technician",
+        "musician",
+        "beautician",
+        "physician",
+        "statistician",
+        "clinician"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "itis",
+      "definition": "inflammation",
+      "examples": [
+        "appendicitis",
+        "tonsillitis",
+        "bursitis",
+        "arthritis",
+        "gastroenteritis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 2,
+      "stem": "logy",
+      "definition": "science",
+      "examples": [
+        "biology",
+        "anthropology",
+        "geology",
+        "entomology",
+        "philology",
+        "mythology"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 2,
+      "stem": "miss",
+      "definition": "send",
+      "examples": [
+        "dismiss",
+        "remiss",
+        "missile",
+        "admission",
+        "missionary",
+        "emission",
+        "promissory"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "neo",
+      "definition": "new",
+      "examples": [
+        "neologism",
+        "neophyte",
+        "neon",
+        "neolithic",
+        "neoclassic",
+        "neoPlatonist",
+        "neonatal"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 2,
+      "stem": "port",
+      "definition": "carry",
+      "examples": [
+        "transport",
+        "import",
+        "report",
+        "porter",
+        "deport",
+        "important",
+        "portage",
+        "portly",
+        "comport"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 2,
+      "stem": "scrib",
+      "definition": "write",
+      "examples": [
+        "scribble",
+        "inscribe",
+        "scribe",
+        "describe",
+        "conscription",
+        "transcribe",
+        "ascribe"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "duct",
+      "definition": "lead",
+      "examples": [
+        "conduct",
+        "ductile",
+        "induct",
+        "product",
+        "reduction",
+        "deduction",
+        "reproduction"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "ex",
+      "definition": "out",
+      "examples": [
+        "exit",
+        "except",
+        "excise",
+        "exculpate",
+        "elucidate",
+        "exorbitant",
+        "enumerate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "fer",
+      "definition": "carry",
+      "examples": [
+        "transfer",
+        "infer",
+        "refer",
+        "defer",
+        "conifer",
+        "Lucifer",
+        "aquifer",
+        "auriferous"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "hema",
+      "definition": "blood",
+      "examples": [
+        "hematic",
+        "hematite",
+        "hematology",
+        "hematoma",
+        "hemal",
+        "hematogenesis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "homo",
+      "definition": "same",
+      "examples": [
+        "homogenize",
+        "homonym",
+        "homophone",
+        "homologous",
+        "homozygous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "hydro",
+      "definition": "water",
+      "examples": [
+        "hydroplane",
+        "hydroponics",
+        "dehydrate",
+        "hydrant",
+        "hydrogen",
+        "hydrophobia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "hypo",
+      "definition": "under",
+      "examples": [
+        "hypodermic",
+        "hypocrite",
+        "hypotenuse",
+        "hypothermia",
+        "hypothesis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "micro",
+      "definition": "small",
+      "examples": [
+        "micron",
+        "microscope",
+        "microwave",
+        "microphone",
+        "microcosm",
+        "microbiotic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "mono",
+      "definition": "one",
+      "examples": [
+        "monotonous",
+        "monomania",
+        "monocular",
+        "monogamous",
+        "monolithic",
+        "monotone"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "neuro",
+      "definition": "nerve",
+      "examples": [
+        "neuron",
+        "neurosurgeon",
+        "neurosis",
+        "neurology",
+        "neuralgia",
+        "neurotomy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "omni",
+      "definition": "all",
+      "examples": [
+        "omnifarious",
+        "omnipotent",
+        "omnivorous",
+        "omniscient",
+        "omnibus",
+        "omnipresent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "pan",
+      "definition": "all",
+      "examples": [
+        "panorama",
+        "panoply",
+        "pandemic",
+        "pantheism",
+        "pantheon",
+        "Pan-American"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "pend",
+      "definition": "hang",
+      "examples": [
+        "pending",
+        "pendulum",
+        "pendant",
+        "impending",
+        "depend",
+        "pendulous",
+        "suspend"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "penta",
+      "definition": "five",
+      "examples": [
+        "pentagram",
+        "pentagon",
+        "pentameter",
+        "pentathlon",
+        "pentarchy",
+        "pentahedron"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "phon",
+      "definition": "sound",
+      "examples": [
+        "symphony",
+        "telephone",
+        "phonetic",
+        "phonograph",
+        "euphony",
+        "cacophony"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "photo",
+      "definition": "light",
+      "examples": [
+        "photograph",
+        "photometer",
+        "photon",
+        "photogenic",
+        "photosynthesis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "poly",
+      "definition": "many",
+      "examples": [
+        "polyphony",
+        "polygyny",
+        "polygamy",
+        "allopolyploidy",
+        "polyvalent"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "proto",
+      "definition": "first",
+      "examples": [
+        "protoplasm",
+        "prototype",
+        "Protozoa",
+        "proton",
+        "protohuman",
+        "protomorphic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "pseudo",
+      "definition": "false",
+      "examples": [
+        "pseudonym",
+        "pseudopod",
+        "pseudomorphic",
+        "pseudoscience",
+        "pseudoevent"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "re",
+      "definition": "again",
+      "examples": [
+        "return",
+        "review",
+        "retouch",
+        "reiterate",
+        "retail",
+        "revive",
+        "regenerate",
+        "regurgitate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "spec",
+      "definition": "look",
+      "examples": [
+        "spectacles",
+        "specter",
+        "specious",
+        "spectrum",
+        "respect",
+        "inspect",
+        "prospectus"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "tele",
+      "definition": "far",
+      "examples": [
+        "telescope",
+        "telephone",
+        "telekinesis",
+        "telepathy",
+        "teleology",
+        "telesthesia",
+        "telex"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "tomy",
+      "definition": "cut",
+      "examples": [
+        "tonsillectomy",
+        "appendectomy",
+        "neurotomy",
+        "dichotomy",
+        "anatomy",
+        "lobotomy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 3,
+      "stem": "vid",
+      "definition": "look",
+      "examples": [
+        "video",
+        "invidious",
+        "Montevideo",
+        "evidence",
+        "provide",
+        "videogenic",
+        "vide",
+        "videlicet"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 3,
+      "stem": "viv",
+      "definition": "life",
+      "examples": [
+        "vivid",
+        "vivisection",
+        "vivacious",
+        "convivial",
+        "bon vivant",
+        "viva",
+        "viviparous",
+        "revive"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "amphi",
+      "definition": "both",
+      "examples": [
+        "amphibious",
+        "amphitheater",
+        "amphibian",
+        "amphigory",
+        "amphibolous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 4,
+      "stem": "bene",
+      "definition": "good",
+      "examples": [
+        "benefit",
+        "benevolent",
+        "beneficial",
+        "benediction",
+        "benefactor",
+        "benign"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "corp",
+      "definition": "body",
+      "examples": [
+        "corpulent",
+        "corporation",
+        "corporeal",
+        "corporal",
+        "corpse",
+        "corpuscle"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "dorm",
+      "definition": "sleep",
+      "examples": [
+        "dormitory",
+        "dormant",
+        "dormer",
+        "dormancy",
+        "dormitive",
+        "dormient"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "dox",
+      "definition": "opinion",
+      "examples": [
+        "orthodox",
+        "heterodox",
+        "doxology",
+        "paradox",
+        "paradoxical"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 4,
+      "stem": "endo",
+      "definition": "within",
+      "examples": [
+        "endoplasm",
+        "endocrine",
+        "endogamous",
+        "endoskeleton",
+        "endothermic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 4,
+      "stem": "eu",
+      "definition": "good",
+      "examples": [
+        "Eucharist",
+        "euphony",
+        "eulogy",
+        "euphemism",
+        "eugenics",
+        "euglena"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 4,
+      "stem": "ject",
+      "definition": "throw",
+      "examples": [
+        "eject",
+        "reject",
+        "conjecture",
+        "dejected",
+        "inject",
+        "subject",
+        "projection",
+        "interject"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "loco",
+      "definition": "place",
+      "examples": [
+        "locomotive",
+        "location",
+        "local",
+        "locus",
+        "relocate",
+        "dislocate",
+        "localize",
+        "locomotor"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "magn",
+      "definition": "great",
+      "examples": [
+        "Magna Carta",
+        "magnanimous",
+        "magnate",
+        "magnificent",
+        "magnum opus"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "matri",
+      "definition": "mother",
+      "examples": [
+        "matricide",
+        "matron",
+        "matriarch",
+        "matrimony",
+        "matrilineal"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "mega",
+      "definition": "large",
+      "examples": [
+        "megalith",
+        "megaphone",
+        "megalomania",
+        "megalopolis",
+        "megahertz",
+        "megaton"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 4,
+      "stem": "morph",
+      "definition": "shape",
+      "examples": [
+        "amorphous",
+        "morphology",
+        "polymorphous",
+        "mesomorph",
+        "protomorph"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 4,
+      "stem": "nov",
+      "definition": "new",
+      "examples": [
+        "novel",
+        "nova",
+        "novice",
+        "novitiate",
+        "Nova Scotia",
+        "innovation",
+        "renovate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "ortho",
+      "definition": "straight",
+      "examples": [
+        "orthopedics",
+        "orthodontist",
+        "orthodox",
+        "orthography",
+        "orthogonal"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 4,
+      "stem": "phobia",
+      "definition": "fear",
+      "examples": [
+        "claustrophobia",
+        "acrophobia",
+        "xenophobia",
+        "agoraphobia",
+        "hydrophobia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 4,
+      "stem": "pond",
+      "definition": "weight",
+      "examples": [
+        "ponderous",
+        "ponder",
+        "preponderant",
+        "pound",
+        "imponderable",
+        "compound"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "pop",
+      "definition": "people",
+      "examples": [
+        "popular",
+        "populist",
+        "populate",
+        "population",
+        "popularize",
+        "populous"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "punct",
+      "definition": "point",
+      "examples": [
+        "punctuate",
+        "punctilious",
+        "puncture",
+        "punctual",
+        "acupuncture",
+        "contrapuntal"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "put",
+      "definition": "think",
+      "examples": [
+        "reputation",
+        "putative",
+        "impute",
+        "dispute",
+        "computer",
+        "disreputable"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "sangui",
+      "definition": "blood",
+      "examples": [
+        "sanguinary",
+        "sanguine",
+        "consanguinity",
+        "sangfroid",
+        "sangria"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "ver",
+      "definition": "true",
+      "examples": [
+        "verify",
+        "veracity",
+        "veritable",
+        "verdict",
+        "verisimilitude",
+        "aver",
+        "cinema verite"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 4,
+      "stem": "vest",
+      "definition": "clothes",
+      "examples": [
+        "vestry",
+        "vestment",
+        "vestibule",
+        "vest",
+        "investiture",
+        "divest",
+        "divestiture"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "alter",
+      "definition": "other",
+      "examples": [
+        "alternator",
+        "alteration",
+        "alter ego",
+        "alternative",
+        "altruism",
+        "altercation"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "amat",
+      "definition": "love",
+      "examples": [
+        "amatory",
+        "amateur",
+        "amorous",
+        "amiable",
+        "amigo",
+        "amour-propre",
+        "amity"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "astr",
+      "definition": "star",
+      "examples": [
+        "astronomy",
+        "astrology",
+        "asteroid",
+        "disaster",
+        "asterisk",
+        "astrophysics",
+        "astrolabe"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "chron",
+      "definition": "time",
+      "examples": [
+        "chronometer",
+        "chronological",
+        "synchronize",
+        "chronic",
+        "anachronism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "cogn",
+      "definition": "know",
+      "examples": [
+        "recognize",
+        "cognizant",
+        "incognito",
+        "cognoscenti",
+        "precognition"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "contra",
+      "definition": "against",
+      "examples": [
+        "contradict",
+        "contrary",
+        "contrast",
+        "contrapuntal",
+        "contraband",
+        "contravene"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "demo",
+      "definition": "people",
+      "examples": [
+        "democracy",
+        "demography",
+        "undemocratic",
+        "democratize"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "dyna",
+      "definition": "power",
+      "examples": [
+        "dynamic",
+        "dynamo",
+        "dynamite",
+        "dynasty",
+        "dynamometer"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "geo",
+      "definition": "earth",
+      "examples": [
+        "geography",
+        "geothermal",
+        "geology",
+        "geophysics",
+        "geometry",
+        "geosynchronous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "gyro",
+      "definition": "turn",
+      "examples": [
+        "gyration",
+        "gyroscope",
+        "gyre",
+        "gyrate",
+        "spirogyra",
+        "gyromagnetic",
+        "gyrocompass"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "helio",
+      "definition": "sun",
+      "examples": [
+        "Helios",
+        "heliotropic",
+        "heliocentric",
+        "heliograph",
+        "perihelion",
+        "aphelion"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "hyper",
+      "definition": "over",
+      "examples": [
+        "hyperactive",
+        "hyperventilate",
+        "hyperbole",
+        "hyperacidity",
+        "hypertension"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "ism",
+      "definition": "doctrine",
+      "examples": [
+        "Marxism",
+        "capitalism",
+        "Imagism",
+        "Cubism",
+        "nihilism",
+        "pluralism",
+        "tribalism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "luna",
+      "definition": "moon",
+      "examples": [
+        "lunar",
+        "lunatic",
+        "lunate",
+        "luna moth",
+        "lunette",
+        "sublunar",
+        "lunular"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "meter",
+      "definition": "measure",
+      "examples": [
+        "thermometer",
+        "millimeter",
+        "octameter",
+        "hydrometer",
+        "odometer"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "scope",
+      "definition": "look",
+      "examples": [
+        "telescope",
+        "microscope",
+        "periscope",
+        "radarscope",
+        "horoscope",
+        "electroscope"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "son",
+      "definition": "sound",
+      "examples": [
+        "sonar",
+        "unison",
+        "sonorous",
+        "sonnet",
+        "dissonance",
+        "resonant",
+        "supersonic"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "stell",
+      "definition": "star",
+      "examples": [
+        "interstellar",
+        "stelliform",
+        "stellar",
+        "constellation",
+        "stellate",
+        "stellify"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "stereo",
+      "definition": "solid",
+      "examples": [
+        "stereoscope",
+        "stereophonic",
+        "stereotype",
+        "stereopticon",
+        "stereotropism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "sur",
+      "definition": "over",
+      "examples": [
+        "surplus",
+        "surpass",
+        "surcharge",
+        "surface",
+        "surfeit",
+        "surmount",
+        "surname",
+        "surtax"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 5,
+      "stem": "tetra",
+      "definition": "four",
+      "examples": [
+        "tetrameter",
+        "tetrahedron",
+        "tetroxide",
+        "tetragon",
+        "tetrachloride",
+        "tetracycline"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "thermo",
+      "definition": "heat",
+      "examples": [
+        "thermostat",
+        "thermos",
+        "thermotropic",
+        "thermonuclear",
+        "thermocouple"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 5,
+      "stem": "vita",
+      "definition": "life",
+      "examples": [
+        "vitamin",
+        "vitality",
+        "vital",
+        "revitalize",
+        "viable",
+        "vitalism",
+        "devitalize"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "clam",
+      "definition": "cry",
+      "examples": [
+        "out         clamorous",
+        "exclamation",
+        "clamor",
+        "exclamatory",
+        "clamant",
+        "declaim"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "clud",
+      "definition": "close",
+      "examples": [
+        "exclude",
+        "include",
+        "preclude",
+        "exclusive",
+        "occlude",
+        "conclude",
+        "cloister"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "curr",
+      "definition": "run",
+      "examples": [
+        "current",
+        "undercurrent",
+        "currently",
+        "recurrent",
+        "currency",
+        "incur"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "dign",
+      "definition": "worthy",
+      "examples": [
+        "dignify",
+        "dignity",
+        "condign",
+        "dignitary",
+        "undignified",
+        "indignation"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "gamy",
+      "definition": "marriage",
+      "examples": [
+        "monogamy",
+        "polygamy",
+        "bigamy",
+        "gamete",
+        "autogamous",
+        "exogamy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 6,
+      "stem": "grat",
+      "definition": "pleasing",
+      "examples": [
+        "gratifying",
+        "gratitude",
+        "ingrate",
+        "grateful",
+        "gratuitous",
+        "ingratiate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "greg",
+      "definition": "group",
+      "examples": [
+        "gregarious",
+        "egregious",
+        "gregariously",
+        "segregate",
+        "congregate",
+        "aggregate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "junct",
+      "definition": "join",
+      "examples": [
+        "junction",
+        "conjunction",
+        "juncture",
+        "disjunct",
+        "injunction",
+        "adjunct"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "liber",
+      "definition": "free",
+      "examples": [
+        "liberate",
+        "liberty",
+        "liberal",
+        "libertine",
+        "libertarian",
+        "liberation"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "luc",
+      "definition": "light",
+      "examples": [
+        "lucid",
+        "translucent",
+        "lucidity",
+        "pellucid",
+        "Lucifer",
+        "elucidate",
+        "lucent",
+        "lucubrate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "mar",
+      "definition": "sea",
+      "examples": [
+        "marine",
+        "marina",
+        "ultramarine",
+        "maritime",
+        "mariner",
+        "marinate",
+        "submarine"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "medi",
+      "definition": "middle",
+      "examples": [
+        "median",
+        "mediate",
+        "medium",
+        "mediocre",
+        "Mediterranean",
+        "in medias res"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "migr",
+      "definition": "wander",
+      "examples": [
+        "migrate",
+        "transmigration",
+        "migrant",
+        "migratory",
+        "emigrant",
+        "immigrant"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "plu",
+      "definition": "more",
+      "examples": [
+        "plural",
+        "plurality",
+        "plus",
+        "pluralize",
+        "pluralism",
+        "nonplussed"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "prim",
+      "definition": "first",
+      "examples": [
+        "prime",
+        "primary",
+        "primate",
+        "primogeniture",
+        "primeval",
+        "prima donna",
+        "primo"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "pyro",
+      "definition": "fire",
+      "examples": [
+        "pyre",
+        "pyromania",
+        "pyrotechnic",
+        "pyrogenic",
+        "pyrophobia",
+        "pyrometer"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 6,
+      "stem": "rupt",
+      "definition": "break",
+      "examples": [
+        "erupt",
+        "disrupt",
+        "rupture",
+        "corrupt",
+        "abrupt",
+        "incorruptible"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "se",
+      "definition": "apart",
+      "examples": [
+        "secede",
+        "secret",
+        "sedition",
+        "seduce",
+        "segregate",
+        "select",
+        "separate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "soph",
+      "definition": "wisdom",
+      "examples": [
+        "sophomore",
+        "sophisticated",
+        "sophist",
+        "philosophy",
+        "pansophy",
+        "theosophy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 6,
+      "stem": "string",
+      "definition": "bind",
+      "examples": [
+        "stringent",
+        "string",
+        "stringy",
+        "astringent",
+        "stringer"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "tang",
+      "definition": "touch",
+      "examples": [
+        "tangible",
+        "tangent",
+        "tangential",
+        "cotangent",
+        "intangible",
+        "tangibility"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "tempor",
+      "definition": "time",
+      "examples": [
+        "temporal",
+        "contemporary",
+        "temporize",
+        "temporarily",
+        "tempus fugit"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "trans",
+      "definition": "across",
+      "examples": [
+        "transfer",
+        "translate",
+        "transmit",
+        "transfusion",
+        "translucent",
+        "transcend"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 6,
+      "stem": "trib",
+      "definition": "pay",
+      "examples": [
+        "tribute",
+        "tributary",
+        "retribution",
+        "contribution",
+        "attribute",
+        "distribute"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "acr",
+      "definition": "sharp",
+      "examples": [
+        "acrimonious",
+        "acerbity",
+        "acrid",
+        "acridine",
+        "acrimony",
+        "acerate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "acro",
+      "definition": "high",
+      "examples": [
+        "acrobat",
+        "acronym",
+        "acropolis",
+        "acrophobia",
+        "acromegaly",
+        "acrocarpous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "agog",
+      "definition": "leader",
+      "examples": [
+        "demagogue",
+        "pedagogue",
+        "synagogue",
+        "agogics",
+        "pedagogy",
+        "mystagogue"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "brev",
+      "definition": "short",
+      "examples": [
+        "brevity",
+        "abbreviation",
+        "breve",
+        "breviary",
+        "brevirostrate",
+        "brief"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "cle",
+      "definition": "small",
+      "examples": [
+        "molecule",
+        "corpuscle",
+        "follicle",
+        "minuscule",
+        "ventricle",
+        "particle",
+        "vesicle"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "culp",
+      "definition": "blame",
+      "examples": [
+        "culprit",
+        "culpable",
+        "exculpate",
+        "inculpate",
+        "exculpatory"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "derm",
+      "definition": "skin",
+      "examples": [
+        "dermatologist",
+        "dermatitis",
+        "pachyderm",
+        "hypodermic",
+        "ectoderm",
+        "endoderm"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "dia",
+      "definition": "across",
+      "examples": [
+        "diagonal",
+        "diameter",
+        "dialogue",
+        "dialect",
+        "diatribe",
+        "diaphanous",
+        "dialectic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "ecto",
+      "definition": "outer",
+      "examples": [
+        "ectoderm",
+        "ectozoa",
+        "ectomorph",
+        "ectothermic",
+        "ectoplasm",
+        "ectoparasite"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "fort",
+      "definition": "strong",
+      "examples": [
+        "fortitude",
+        "fort",
+        "fortify",
+        "fortification",
+        "comfort",
+        "forte",
+        "fortissimo",
+        "pianoforte"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "fus",
+      "definition": "pour",
+      "examples": [
+        "transfusion",
+        "infusion",
+        "refuse",
+        "fusillade",
+        "fusion",
+        "infuse",
+        "confusion"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "il",
+      "definition": "not",
+      "examples": [
+        "illegal",
+        "illiterate",
+        "illicit",
+        "illogical",
+        "illegible",
+        "illiberal"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "necro",
+      "definition": "death",
+      "examples": [
+        "necropolis",
+        "necromancer",
+        "necrophobia",
+        "necrotic",
+        "necrobiosis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "numer",
+      "definition": "number",
+      "examples": [
+        "enumerate",
+        "numeral",
+        "numerous",
+        "supernumeraries",
+        "numerology"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "ornith",
+      "definition": "bird",
+      "examples": [
+        "ornithology",
+        "ornithologist",
+        "ornithopter",
+        "ornithomancy",
+        "ornithosis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "osteo",
+      "definition": "bone",
+      "examples": [
+        "osteopath",
+        "osteology",
+        "osteopathy",
+        "osteoblast",
+        "osteocyte",
+        "osteotomy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "pac",
+      "definition": "peace",
+      "examples": [
+        "pacify",
+        "pacific",
+        "pacifist",
+        "pacifier",
+        "pacifism",
+        "Pax Romana",
+        "pacification"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "per",
+      "definition": "through",
+      "examples": [
+        "perception",
+        "perforation",
+        "percolate",
+        "perambulate",
+        "peregrination"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "plasto",
+      "definition": "molded",
+      "examples": [
+        "plastic",
+        "dermoplasty",
+        "rhinoplasty",
+        "plaster",
+        "plasticity",
+        "plastid"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "polis",
+      "definition": "city",
+      "examples": [
+        "metropolis",
+        "megalopolis",
+        "police",
+        "polite",
+        "policy",
+        "acropolis",
+        "necropolis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 7,
+      "stem": "pugn",
+      "definition": "fight",
+      "examples": [
+        "pugnacious",
+        "repugnant",
+        "pugilist",
+        "impugn",
+        "oppugn",
+        "inexpugnable"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "spir",
+      "definition": "breathe",
+      "examples": [
+        "inspire",
+        "respiration",
+        "perspiration",
+        "expire",
+        "spirit",
+        "aspire",
+        "conspire"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "urb",
+      "definition": "city",
+      "examples": [
+        "urban",
+        "urbane",
+        "suburbs",
+        "urbanite",
+        "urbanologist",
+        "urbanism"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 7,
+      "stem": "zo",
+      "definition": "animal",
+      "examples": [
+        "zoo",
+        "protozoa",
+        "zoophilous",
+        "zooplankton",
+        "zoophagous",
+        "Mesozoic",
+        "zodiac"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 8,
+      "stem": "anim",
+      "definition": "mind",
+      "examples": [
+        "equanimity",
+        "animal",
+        "animated",
+        "animosity",
+        "magnanimous",
+        "animadversion"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "apt",
+      "definition": "fit",
+      "examples": [
+        "adapt",
+        "aptitude",
+        "maladapted",
+        "adaptation",
+        "aptly",
+        "aptness"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "cur",
+      "definition": "care",
+      "examples": [
+        "for     cure",
+        "curator",
+        "curative",
+        "cure-all",
+        "sinecure",
+        "secure",
+        "curate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "demi",
+      "definition": "half",
+      "examples": [
+        "demigod",
+        "demitasse",
+        "demisemiquaver",
+        "demimonde",
+        "demirep"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "fy",
+      "definition": "make",
+      "examples": [
+        "fortify",
+        "rectify",
+        "horrify",
+        "solidify",
+        "reify",
+        "transmogrify",
+        "sanctify",
+        "pacify"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "gest",
+      "definition": "carry",
+      "examples": [
+        "gestation",
+        "digest",
+        "ingest",
+        "congestion",
+        "gesticulate",
+        "gesture"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "leg",
+      "definition": "read",
+      "examples": [
+        "legible",
+        "legend",
+        "illegible",
+        "legendary",
+        "legibility",
+        "illegibility"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "man",
+      "definition": "hand",
+      "examples": [
+        "manual",
+        "manicure",
+        "manipulate",
+        "manacles",
+        "amanuensis",
+        "legerdemain"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "meta",
+      "definition": "change",
+      "examples": [
+        "metamorphosis",
+        "metaphor",
+        "metaphysics",
+        "metastasize",
+        "metabolism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 8,
+      "stem": "mir",
+      "definition": "wonder",
+      "examples": [
+        "miracle",
+        "mirage",
+        "mirror",
+        "mirabile dictu",
+        "admire",
+        "mirabilia",
+        "miracle play"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "nym",
+      "definition": "name",
+      "examples": [
+        "homonym",
+        "acronym",
+        "pseudonym",
+        "anonymous",
+        "patronymic",
+        "synonym"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 8,
+      "stem": "ocul",
+      "definition": "eye",
+      "examples": [
+        "binocular",
+        "monocular",
+        "ocular",
+        "oculist",
+        "oculomotor nerve",
+        "oculometer"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "oid",
+      "definition": "appearance",
+      "examples": [
+        "android (droid!)",
+        "anthropoid",
+        "asteroid",
+        "adenoid",
+        "xyloid",
+        "haploid"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 8,
+      "stem": "petr",
+      "definition": "rock",
+      "examples": [
+        "petrify",
+        "petroleum",
+        "petrology",
+        "petroglyph",
+        "petrochemical"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 8,
+      "stem": "rect",
+      "definition": "right",
+      "examples": [
+        "correct",
+        "rectitude",
+        "direct",
+        "rectilinear",
+        "rectangle",
+        "rectify",
+        "rector",
+        "erect"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "retro",
+      "definition": "backward",
+      "examples": [
+        "retroactive",
+        "retrofire",
+        "retrogress",
+        "retrospection",
+        "retrofit",
+        "retrorse"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "rid",
+      "definition": "laugh",
+      "examples": [
+        "ridicule",
+        "deride",
+        "derision",
+        "risibility",
+        "ridiculous"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "sanct",
+      "definition": "holy",
+      "examples": [
+        "sanctity",
+        "sanctimonious",
+        "sacrosanct",
+        "sanctuary",
+        "unsanctioned",
+        "sanctify"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "sed",
+      "definition": "sit",
+      "examples": [
+        "sedentary",
+        "sediment",
+        "sedan",
+        "sedative",
+        "sedate",
+        "supersede",
+        "assiduous",
+        "insidious"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "sens",
+      "definition": "feel",
+      "examples": [
+        "sense",
+        "sensitive",
+        "sensation",
+        "sensory",
+        "extrasensory",
+        "insensate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "tact",
+      "definition": "touch",
+      "examples": [
+        "tactile",
+        "contact",
+        "tactful",
+        "intact",
+        "tactility",
+        "taction"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "tort",
+      "definition": "twist",
+      "examples": [
+        "contorted",
+        "torture",
+        "tortuous",
+        "retort",
+        "distort",
+        "tortuous",
+        "tort",
+        "tortilla"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "ultra",
+      "definition": "beyond",
+      "examples": [
+        "ultramarine",
+        "ultraconservative",
+        "ultraviolet",
+        "ultramundane"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "voc",
+      "definition": "voice",
+      "examples": [
+        "vociferously",
+        "vocal",
+        "sotto voce",
+        "invocation",
+        "vocabulary",
+        "convocation"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 8,
+      "stem": "volv",
+      "definition": "roll",
+      "examples": [
+        "revolve",
+        "involved",
+        "devolve",
+        "convoluted",
+        "volvox",
+        "revolution",
+        "volvulus"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "ambul",
+      "definition": "walk",
+      "examples": [
+        "ambulatory",
+        "somnambulism",
+        "funambulist",
+        "ambulance",
+        "perambulate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "caco",
+      "definition": "bad",
+      "examples": [
+        "cacophony",
+        "cacography",
+        "cacodemon",
+        "cacoethes",
+        "cacodyl",
+        "cacology"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "co",
+      "definition": "together",
+      "examples": [
+        "cooperate",
+        "coordinating",
+        "coterminous",
+        "colloquy",
+        "coauthor",
+        "cotangent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "fid",
+      "definition": "faith",
+      "examples": [
+        "infidel",
+        "fidelity",
+        "confidence",
+        "diffident",
+        "bona fide",
+        "fiduciary",
+        "perfidy"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "fin",
+      "definition": "end",
+      "examples": [
+        "final",
+        "define",
+        "infinite",
+        "finial",
+        "finis",
+        "Finisterre",
+        "infinitive",
+        "fin de siecle"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "fract",
+      "definition": "break",
+      "examples": [
+        "fracture",
+        "infraction",
+        "fraction",
+        "refraction",
+        "refractory",
+        "fractious"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "graph",
+      "definition": "write",
+      "examples": [
+        "bibliography",
+        "photograph",
+        "autograph",
+        "polygraph",
+        "stenography"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "hedron",
+      "definition": "sided",
+      "examples": [
+        "object   polyhedron",
+        "tetrahedron",
+        "heptahedron",
+        "octahedron",
+        "icosahedron"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "hetero",
+      "definition": "different",
+      "examples": [
+        "heterodox",
+        "heteromorphic",
+        "heterogeneous",
+        "heterosexual",
+        "heteronym"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "hexa",
+      "definition": "six",
+      "examples": [
+        "hexagram",
+        "hexagon",
+        "hexapod",
+        "hexameter",
+        "hexahedron",
+        "hexarchy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "lat",
+      "definition": "side",
+      "examples": [
+        "bilateral",
+        "unilateral",
+        "lateral fin",
+        "multilateral",
+        "collateral"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "lith",
+      "definition": "rock",
+      "examples": [
+        "neolithic",
+        "paleolithic",
+        "lithograph",
+        "megalith",
+        "monolith",
+        "lithium",
+        "laccolith"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "nomy",
+      "definition": "law",
+      "examples": [
+        "astronomy",
+        "economy",
+        "Deuteronomy",
+        "taxonomy",
+        "heteronomy",
+        "nomothetic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "ous",
+      "definition": "full",
+      "examples": [
+        "of        luminous",
+        "glorious",
+        "loquacious",
+        "vivacious",
+        "garrulous",
+        "anomalous",
+        "zealous"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "path",
+      "definition": "feeling",
+      "examples": [
+        "sympathy",
+        "pathetic",
+        "pathos",
+        "telepathy",
+        "empathy",
+        "apathy",
+        "idiopathy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "phile",
+      "definition": "love",
+      "examples": [
+        "philosopher",
+        "audiophile",
+        "bibliophile",
+        "philologist",
+        "philanthropy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "platy",
+      "definition": "flat",
+      "examples": [
+        "plateau",
+        "platyhelminthes",
+        "platypus",
+        "plate",
+        "platitude",
+        "platyrrhine"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "sci",
+      "definition": "know",
+      "examples": [
+        "science",
+        "conscience",
+        "prescience",
+        "omniscience",
+        "scientism"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 9,
+      "stem": "theo",
+      "definition": "god",
+      "examples": [
+        "theology",
+        "pantheism",
+        "atheism",
+        "monotheism",
+        "apotheosis",
+        "henotheism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "topo",
+      "definition": "place",
+      "examples": [
+        "topographical",
+        "topology",
+        "topic",
+        "topiary",
+        "toponym",
+        "topognosia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 9,
+      "stem": "tract",
+      "definition": "pull",
+      "examples": [
+        "tractor",
+        "detract",
+        "retraction",
+        "attractive",
+        "protractor",
+        "contract",
+        "traction"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "alt",
+      "definition": "high",
+      "examples": [
+        "altitude",
+        "alto",
+        "altimeter",
+        "altar",
+        "altocumulus",
+        "altiplano"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "ate",
+      "definition": "cause",
+      "examples": [
+        "domesticate",
+        "implicate",
+        "create",
+        "procreate",
+        "insinuate",
+        "placate",
+        "dominate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "cad",
+      "definition": "fall",
+      "examples": [
+        "cascade",
+        "cadaver",
+        "cadence",
+        "cadenza",
+        "cadaverous",
+        "decadent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "capit",
+      "definition": "head",
+      "examples": [
+        "decapitate",
+        "capital",
+        "recapitulate",
+        "capitulation",
+        "capitulum"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "carn",
+      "definition": "flesh",
+      "examples": [
+        "carnivorous",
+        "incarnate",
+        "reincarnated",
+        "carnival",
+        "carnation",
+        "carnage"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "cor",
+      "definition": "heart",
+      "examples": [
+        "core",
+        "concord",
+        "discord",
+        "misericord",
+        "cordial",
+        "courageous"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "crypt",
+      "definition": "hidden",
+      "examples": [
+        "cryptic",
+        "cryptologist",
+        "crypt",
+        "cryptogram",
+        "encrypt",
+        "cryptesthesia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 10,
+      "stem": "curs",
+      "definition": "run",
+      "examples": [
+        "cursive",
+        "discursive",
+        "incursion",
+        "precursor",
+        "cursory",
+        "cursorial",
+        "cursor"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "fug",
+      "definition": "flee",
+      "examples": [
+        "centrifuge",
+        "fugitive",
+        "tempus fugit",
+        "subterfuge",
+        "refugee",
+        "fugue"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "ics",
+      "definition": "art",
+      "examples": [
+        "politics",
+        "economics",
+        "aesthetics",
+        "graphics",
+        "ethics",
+        "calisthenics"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 10,
+      "stem": "iso",
+      "definition": "equal",
+      "examples": [
+        "isothermal",
+        "isometric",
+        "isosceles",
+        "isomer",
+        "isocracy",
+        "isotope"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 10,
+      "stem": "loqu",
+      "definition": "talk",
+      "examples": [
+        "loquacious",
+        "circumlocution",
+        "eloquent",
+        "soliloquy",
+        "somniloquy"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "mort",
+      "definition": "death",
+      "examples": [
+        "mortal",
+        "mortician",
+        "mortified",
+        "immortality",
+        "mortuary",
+        "moribund"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "muta",
+      "definition": "change",
+      "examples": [
+        "mutant",
+        "mutation",
+        "mutagenic",
+        "mutable",
+        "transmutation",
+        "immutable"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "nat",
+      "definition": "born",
+      "examples": [
+        "prenatal",
+        "native",
+        "natural",
+        "nativity",
+        "nation",
+        "nascent",
+        "natal",
+        "perinatal"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "ness",
+      "definition": "quality",
+      "examples": [
+        "softness",
+        "redness",
+        "politeness",
+        "kindness",
+        "darkness",
+        "vagueness"
+      ],
+      "origin": "Germanic"
+    },
+    {
+      "list": 10,
+      "stem": "paleo",
+      "definition": "old",
+      "examples": [
+        "paleozoic",
+        "paleolithic",
+        "paleontologist",
+        "paleoanthropic",
+        "paleography"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 10,
+      "stem": "ped",
+      "definition": "foot",
+      "examples": [
+        "centipede",
+        "expedition",
+        "pedestrian",
+        "pedestal",
+        "pedal",
+        "pedicure",
+        "impede"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "ped",
+      "definition": "child",
+      "examples": [
+        "orthopedist",
+        "pedagogue",
+        "pediatrics",
+        "pediatrician",
+        "pedodontic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 10,
+      "stem": "psych",
+      "definition": "soul",
+      "examples": [
+        "psychology",
+        "psychic",
+        "psychopathic",
+        "parapsychology",
+        "psychosis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 10,
+      "stem": "sacro",
+      "definition": "holy",
+      "examples": [
+        "sacrosanct",
+        "sacred",
+        "sacrifice",
+        "sacrament",
+        "sacrilege",
+        "consecrate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "uni",
+      "definition": "one",
+      "examples": [
+        "unicycle",
+        "universe",
+        "united",
+        "union",
+        "uniform",
+        "unison",
+        "unique",
+        "unicorn"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 10,
+      "stem": "vert",
+      "definition": "turn",
+      "examples": [
+        "convert",
+        "revert",
+        "inverted",
+        "divert",
+        "vertex",
+        "controvert",
+        "extrovert",
+        "introvert"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "act",
+      "definition": "to",
+      "examples": [
+        "do         transact",
+        "react",
+        "action",
+        "activate",
+        "abreact",
+        "counteract",
+        "interact"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "ag",
+      "definition": "to",
+      "examples": [
+        "do         agile",
+        "agent",
+        "agitate",
+        "agility",
+        "agency",
+        "agitation"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "andro",
+      "definition": "man",
+      "examples": [
+        "androgynous",
+        "android (droid!)",
+        "androgens",
+        "androphobia",
+        "polyandry"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 11,
+      "stem": "ann",
+      "definition": "year",
+      "examples": [
+        "annual",
+        "superannuated",
+        "anniversary",
+        "annuity",
+        "perennial"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "cant",
+      "definition": "sing",
+      "examples": [
+        "recant",
+        "cantata",
+        "incantation",
+        "descant",
+        "canticle",
+        "canto"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "fic",
+      "definition": "make",
+      "examples": [
+        "fortification",
+        "prolific",
+        "horrific",
+        "soporific",
+        "pacification",
+        "deification"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "gram",
+      "definition": "writing",
+      "examples": [
+        "telegram",
+        "pentagram",
+        "hexagram",
+        "hologram",
+        "grammar"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 11,
+      "stem": "gyn",
+      "definition": "woman",
+      "examples": [
+        "androgynous",
+        "gynecologist",
+        "polygyny",
+        "misogynist",
+        "gynephobia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 11,
+      "stem": "jus",
+      "definition": "law",
+      "examples": [
+        "justice",
+        "justify",
+        "unjust",
+        "jus soli",
+        "justiciary"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "lum",
+      "definition": "light",
+      "examples": [
+        "luminary",
+        "luminous",
+        "illuminate",
+        "luminiferous",
+        "superluminous"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "mob",
+      "definition": "move",
+      "examples": [
+        "mobility",
+        "mobile",
+        "immobile",
+        "mobilize",
+        "demobilize"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "nounce",
+      "definition": "tell",
+      "examples": [
+        "denounce",
+        "pronounce",
+        "announce",
+        "renounce",
+        "enunciate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "potent",
+      "definition": "power",
+      "examples": [
+        "potential",
+        "potentiometer",
+        "potentate",
+        "plenipotentiary",
+        "omnipotent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "reg",
+      "definition": "rule",
+      "examples": [
+        "regal",
+        "regiment",
+        "regulate",
+        "regent",
+        "interregnum",
+        "regicide",
+        "regime"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "rogat",
+      "definition": "ask",
+      "examples": [
+        "interrogation",
+        "abrogate",
+        "derogatory",
+        "arrogate",
+        "supererogatory"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "sen",
+      "definition": "old",
+      "examples": [
+        "senile",
+        "senior",
+        "senator",
+        "seniority",
+        "senescent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "sess",
+      "definition": "sit",
+      "examples": [
+        "session",
+        "sessile",
+        "insessorial",
+        "sessility",
+        "obsessed"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "sol",
+      "definition": "alone",
+      "examples": [
+        "solitude",
+        "solitary",
+        "solo",
+        "soliloquy",
+        "desolate",
+        "solipsism",
+        "solifidian"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 11,
+      "stem": "surg",
+      "definition": "rise",
+      "examples": [
+        "resurgence",
+        "insurgence",
+        "surge",
+        "surgent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 12,
+      "stem": "ab",
+      "definition": "away",
+      "examples": [
+        "abnormal",
+        "abjure",
+        "absent",
+        "abrogate",
+        "abrupt",
+        "abduct",
+        "abdicate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 12,
+      "stem": "aden",
+      "definition": "gland",
+      "examples": [
+        "adenoid",
+        "adenine",
+        "adenoma",
+        "adenovirus"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "alb",
+      "definition": "white",
+      "examples": [
+        "albumen",
+        "alba",
+        "album",
+        "albino",
+        "albinism",
+        "albedo"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 12,
+      "stem": "ase",
+      "definition": "enzyme",
+      "examples": [
+        "permease",
+        "galactosidase",
+        "proteinase",
+        "luciferase"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "bon",
+      "definition": "good",
+      "examples": [
+        "bonny",
+        "bonanza",
+        "bon mot",
+        "bonus",
+        "bon vivant",
+        "bonhomie",
+        "bona fide"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 12,
+      "stem": "chlor",
+      "definition": "green",
+      "examples": [
+        "chlorophyll",
+        "chlorine",
+        "chloroplasts",
+        "chlorella"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "cyan",
+      "definition": "blue",
+      "examples": [
+        "pyocyanin",
+        "cyanide",
+        "cyan",
+        "cyanophyta",
+        "cyanosis",
+        "cyanotype"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "cyt",
+      "definition": "cell",
+      "examples": [
+        "erythrocyte",
+        "leucocyte",
+        "cytology",
+        "cytoplasm",
+        "melanocyte"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "diplo",
+      "definition": "double",
+      "examples": [
+        "diplococcus",
+        "diploid",
+        "diplomacy",
+        "diplopoda",
+        "diplopia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "dys",
+      "definition": "bad",
+      "examples": [
+        "dysentery",
+        "dyslexia",
+        "dystrophy",
+        "dysfunction",
+        "dysphonia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "eco",
+      "definition": "house",
+      "examples": [
+        "ecology",
+        "economy",
+        "ecosystem",
+        "ecotone",
+        "economist",
+        "ecologist"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "emia",
+      "definition": "blood",
+      "examples": [
+        "bacteremia",
+        "anemia",
+        "hypoglycemia",
+        "toxemia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "epi",
+      "definition": "on",
+      "examples": [
+        "epicenter",
+        "epidemic",
+        "epigram",
+        "epidermis",
+        "epigraph",
+        "epitaph"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "erythro",
+      "definition": "red",
+      "examples": [
+        "erythrocyte",
+        "erythroblastosis",
+        "erythrism",
+        "erythromycin"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "exo",
+      "definition": "out",
+      "examples": [
+        "exotoxin",
+        "exogenous",
+        "exodus",
+        "exorcism",
+        "exotic",
+        "exobiology"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "fil",
+      "definition": "thread",
+      "examples": [
+        "filiform",
+        "filicinae",
+        "filament",
+        "filaria",
+        "filigree",
+        "defile"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 12,
+      "stem": "hum",
+      "definition": "earth",
+      "examples": [
+        "humus",
+        "exhume",
+        "posthumous",
+        "humble",
+        "humiliate",
+        "human"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 12,
+      "stem": "idio",
+      "definition": "peculiar",
+      "examples": [
+        "idiot",
+        "idiosyncrasy",
+        "idiomorphous",
+        "idiom",
+        "idiot savant"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "im",
+      "definition": "not",
+      "examples": [
+        "impossible",
+        "impassable",
+        "improbable",
+        "imperfect",
+        "immobile",
+        "impecunious"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 12,
+      "stem": "mel",
+      "definition": "song",
+      "examples": [
+        "melody",
+        "melodrama",
+        "melodeon",
+        "melodious",
+        "melodia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 12,
+      "stem": "struct",
+      "definition": "build",
+      "examples": [
+        "construct",
+        "destruct",
+        "substructure",
+        "instruction",
+        "structure",
+        "infrastructure"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "chrom",
+      "definition": "color",
+      "examples": [
+        "chrome",
+        "chromatic",
+        "chromatin",
+        "chromosome",
+        "polychrome",
+        "monochrome"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "form",
+      "definition": "shape",
+      "examples": [
+        "coliform",
+        "formation",
+        "formative",
+        "formula",
+        "uniform",
+        "oviform",
+        "reform"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "glyc",
+      "definition": "sweet",
+      "examples": [
+        "glycemia",
+        "glycerin",
+        "glycerol",
+        "glycogen",
+        "hypoglycemia",
+        "glucose"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "gress",
+      "definition": "step",
+      "examples": [
+        "congress",
+        "egress",
+        "digress",
+        "progress",
+        "aggression",
+        "regress",
+        "ingress"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "hemo",
+      "definition": "blood",
+      "examples": [
+        "hemoglobin",
+        "hemorrhage",
+        "hemophilia",
+        "hemolysis",
+        "hemoid",
+        "hemostat"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "infra",
+      "definition": "beneath",
+      "examples": [
+        "infraorbital",
+        "infrared",
+        "infrasonic",
+        "infra dig",
+        "infralapsarianism"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "labor",
+      "definition": "work",
+      "examples": [
+        "labor",
+        "laborious",
+        "collaborate",
+        "laboratory",
+        "elaborate",
+        "labored"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "leuko",
+      "definition": "white",
+      "examples": [
+        "leukocyte",
+        "leukemia",
+        "leucocytosis",
+        "leucite",
+        "leucoplast",
+        "leucocratic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "lys",
+      "definition": "break",
+      "examples": [
+        "down   hemolysis",
+        "electrolysis",
+        "electrolyte",
+        "analysis",
+        "dialysis",
+        "lysis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "mem",
+      "definition": "remember",
+      "examples": [
+        "memory",
+        "memorandum",
+        "commemorate",
+        "memorial",
+        "memo",
+        "memoir"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "meso",
+      "definition": "middle",
+      "examples": [
+        "mesophilic",
+        "mesomorph",
+        "Mesozoic",
+        "Mesopotamia",
+        "mesophyll"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "milli",
+      "definition": "thousandth",
+      "examples": [
+        "millimeter",
+        "millipede",
+        "milligram",
+        "milliliter",
+        "million",
+        "millimicron"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "myo",
+      "definition": "muscle",
+      "examples": [
+        "myocardium",
+        "myopia",
+        "myoglobin",
+        "myogram",
+        "myocarditis",
+        "myotomy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "ose",
+      "definition": "sugar",
+      "examples": [
+        "lactose",
+        "fructose",
+        "sucrose",
+        "glucose",
+        "dextrose",
+        "dextroglucose"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "osis",
+      "definition": "condition",
+      "examples": [
+        "neurosis",
+        "psychosis",
+        "ichthyosis",
+        "erythroblastosis",
+        "thrombosis",
+        "meiosis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "patho",
+      "definition": "disease",
+      "examples": [
+        "pathogenic",
+        "psychopath",
+        "sociopath",
+        "pathological",
+        "idiopathic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "phag",
+      "definition": "eat",
+      "examples": [
+        "phagocyte",
+        "bacteriophage",
+        "geophagy",
+        "anthropophagite",
+        "sarcophagus"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "phor",
+      "definition": "carry",
+      "examples": [
+        "euphoria",
+        "conidiophore",
+        "metaphor",
+        "chromatophore",
+        "dysphoria",
+        "anaphora"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "phyll",
+      "definition": "leaf",
+      "examples": [
+        "chlorophyll",
+        "phyllotaxis",
+        "phyllopod",
+        "phyllophagous",
+        "monophyllous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "phyt",
+      "definition": "plant",
+      "examples": [
+        "phytotoxin",
+        "sporophyte",
+        "neophyte",
+        "gametophyte",
+        "phytochrome"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 13,
+      "stem": "sequ",
+      "definition": "follow",
+      "examples": [
+        "consecutive",
+        "sequence",
+        "sequel",
+        "obsequious",
+        "consequence",
+        "subsequent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "tude",
+      "definition": "state",
+      "examples": [
+        "of     pulchritude",
+        "multitude",
+        "solitude",
+        "turpitude",
+        "rectitude",
+        "aptitude",
+        "similitude"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "ultima",
+      "definition": "last",
+      "examples": [
+        "ultimate",
+        "ultimatum",
+        "penultimate",
+        "Ultima Thule",
+        "ultimogeniture"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 13,
+      "stem": "vac",
+      "definition": "empty",
+      "examples": [
+        "vacant",
+        "vacuum",
+        "vacation",
+        "evacuate",
+        "vacuous",
+        "vacuole",
+        "vacuity"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 14,
+      "stem": "dom",
+      "definition": "rule",
+      "examples": [
+        "dominate",
+        "predominant",
+        "dominion",
+        "domineering",
+        "subdominant",
+        "domain"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 14,
+      "stem": "erg",
+      "definition": "work",
+      "examples": [
+        "energy",
+        "ergonomics",
+        "erg-second",
+        "ergatocracy",
+        "exergonic",
+        "synergy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "frat",
+      "definition": "brother",
+      "examples": [
+        "fraternity",
+        "fraternal",
+        "fratricide",
+        "fraternize"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 14,
+      "stem": "hippo",
+      "definition": "horse",
+      "examples": [
+        "hippopotamus",
+        "hippodrome",
+        "hippogriff",
+        "hipparch",
+        "eohippus"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "pleo",
+      "definition": "more",
+      "examples": [
+        "pleomorphic",
+        "pleonasm",
+        "pleochroic",
+        "Pliocene",
+        "pleophagous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "pod",
+      "definition": "foot",
+      "examples": [
+        "pseudopod",
+        "arthropod",
+        "diplopoda",
+        "cephalopod",
+        "podiatrist",
+        "gastropod"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "rhiz",
+      "definition": "root",
+      "examples": [
+        "rhizoid",
+        "rhizome",
+        "rhizomorphous",
+        "rhizophagous",
+        "rhizanthous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "rhodo",
+      "definition": "rose",
+      "examples": [
+        "rhododendron",
+        "rhodolite",
+        "Rhode Island",
+        "rhodium"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "sapro",
+      "definition": "rotten",
+      "examples": [
+        "saprophytic",
+        "saprophyte",
+        "saprogenic",
+        "saprolite",
+        "saprophilous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "schizo",
+      "definition": "divide",
+      "examples": [
+        "Schizomycetes",
+        "schizophrenia",
+        "schism",
+        "schizocarp",
+        "schizoid",
+        "schizopod"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "sect",
+      "definition": "cut",
+      "examples": [
+        "dissect",
+        "intersection",
+        "vivisection",
+        "bisect",
+        "section",
+        "sectarian",
+        "sector"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 14,
+      "stem": "som",
+      "definition": "body",
+      "examples": [
+        "somatic",
+        "chromosome",
+        "lysosome",
+        "somatoplasm",
+        "psychosomatic",
+        "somatology"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "soror",
+      "definition": "sister",
+      "examples": [
+        "sorority",
+        "sororicide",
+        "sorosis",
+        "sororize",
+        "sororal"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 14,
+      "stem": "spor",
+      "definition": "seed",
+      "examples": [
+        "endospore",
+        "sporophyte",
+        "sporangia",
+        "Sporozoa",
+        "sporogenesis",
+        "macrospore"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "taxis",
+      "definition": "arrangement",
+      "examples": [
+        "syntax",
+        "chemotaxis",
+        "taxidermy",
+        "phyllotaxis",
+        "taxonomy",
+        "ataxia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "tox",
+      "definition": "poison",
+      "examples": [
+        "toxin",
+        "toxoid",
+        "nontoxic",
+        "antitoxin",
+        "detoxification",
+        "toxicity",
+        "phytotoxins"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "trich",
+      "definition": "hair",
+      "examples": [
+        "monotrichous",
+        "trichina",
+        "trichocysts",
+        "trichinosis",
+        "trichosis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "troph",
+      "definition": "nourishment",
+      "examples": [
+        "autotroph",
+        "eutrophication",
+        "atrophy",
+        "dystrophy",
+        "trophism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "val",
+      "definition": "worth",
+      "examples": [
+        "valiant",
+        "valid",
+        "equivalent",
+        "devaluate",
+        "evaluate",
+        "ambivalent",
+        "covalent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 14,
+      "stem": "vol",
+      "definition": "will",
+      "examples": [
+        "volunteer",
+        "malevolent",
+        "benevolent",
+        "volition",
+        "involuntary"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 14,
+      "stem": "zygo",
+      "definition": "yoke",
+      "examples": [
+        "zygote",
+        "zygospore",
+        "zygodactyl",
+        "zygomorphic",
+        "zygoid",
+        "zygoptera"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 14,
+      "stem": "zym",
+      "definition": "ferment",
+      "examples": [
+        "enzyme",
+        "zymology",
+        "zymurgy",
+        "zymogenesis",
+        "zymoscope",
+        "zymogen"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "arthro",
+      "definition": "joint",
+      "examples": [
+        "arthritis",
+        "arthropod",
+        "arthralgia",
+        "arthrospore",
+        "arthroscopic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "blasto",
+      "definition": "embryo",
+      "examples": [
+        "blastocyst",
+        "blastogenesis",
+        "erythroblast"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "brachio",
+      "definition": "arm",
+      "examples": [
+        "brachiopod",
+        "brachiation",
+        "brachiate",
+        "brachium"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "brachy",
+      "definition": "short",
+      "examples": [
+        "brachycephalic",
+        "brachypterous",
+        "brachycranic",
+        "brachylogy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "branchio",
+      "definition": "gills",
+      "examples": [
+        "branchiopod",
+        "branchiate",
+        "branchia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "dactylo",
+      "definition": "finger",
+      "examples": [
+        "pterodactyl",
+        "dactylic",
+        "dactylology",
+        "dactylography"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "dicho",
+      "definition": "in",
+      "examples": [
+        "two parts      dichotomy",
+        "dichotomize",
+        "dichogamous",
+        "dichotomist"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "dors",
+      "definition": "back",
+      "examples": [
+        "dorsal",
+        "dorsoventral",
+        "dorsum",
+        "dorsal fin"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 15,
+      "stem": "ef",
+      "definition": "out",
+      "examples": [
+        "effusive",
+        "effulgent",
+        "efflux",
+        "efficacy",
+        "effeminate",
+        "effluvium",
+        "effluent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 15,
+      "stem": "gastro",
+      "definition": "stomach",
+      "examples": [
+        "gastronomy",
+        "gastroscope",
+        "gastropod",
+        "gastroenteritis",
+        "hypogastric"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "gon",
+      "definition": "angle",
+      "examples": [
+        "pentagon",
+        "tetragon",
+        "decagon",
+        "hexagonal",
+        "diagonal",
+        "orthogonal"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "holo",
+      "definition": "whole",
+      "examples": [
+        "holocaust",
+        "hologram",
+        "holometabolous",
+        "holograph",
+        "holophrastic",
+        "holistic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "ium",
+      "definition": "an",
+      "examples": [
+        "element        radium",
+        "sodium",
+        "uranium",
+        "germanium",
+        "iridium",
+        "einsteinium"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 15,
+      "stem": "kin",
+      "definition": "motion",
+      "examples": [
+        "kinetic",
+        "kinescope",
+        "hypokinesia",
+        "hyperkinetic",
+        "telekinesis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "lent",
+      "definition": "full",
+      "examples": [
+        "of           corpulent",
+        "virulent",
+        "turbulent",
+        "excellent",
+        "succulent",
+        "insolent",
+        "indolent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 15,
+      "stem": "macro",
+      "definition": "large",
+      "examples": [
+        "macrobiotic",
+        "macrocephalic",
+        "macrocosm",
+        "macron",
+        "macroscopic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "opia",
+      "definition": "sight",
+      "examples": [
+        "myopia",
+        "hyperopia",
+        "hemeralopia",
+        "synopsis",
+        "diplopia",
+        "biopsy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "phos",
+      "definition": "light",
+      "examples": [
+        "phosphorous",
+        "phosphene",
+        "phosphoroscope",
+        "phosphoresce"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "phylo",
+      "definition": "kind",
+      "examples": [
+        "phylum",
+        "phylogeny",
+        "phyla",
+        "phylogenesis",
+        "subphylum"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "tropo",
+      "definition": "turn",
+      "examples": [
+        "heliotrope",
+        "troposphere",
+        "tropism",
+        "trophy",
+        "phototropism",
+        "apogeotropism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 15,
+      "stem": "ventri",
+      "definition": "belly",
+      "examples": [
+        "ventriloquist",
+        "ventral",
+        "ventricle",
+        "dorsoventral",
+        "ventriculus"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 15,
+      "stem": "vore",
+      "definition": "eating",
+      "examples": [
+        "omnivore",
+        "herbivore",
+        "carnivore",
+        "voracious",
+        "devour",
+        "fructivorous"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "algia",
+      "definition": "pain",
+      "examples": [
+        "neuralgia",
+        "analgesic",
+        "arthralgia",
+        "hemialgia",
+        "algometer",
+        "algophobia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "Anglo",
+      "definition": "English",
+      "examples": [
+        "Anglophile",
+        "Anglophobe",
+        "Anglican",
+        "Anglicism",
+        "Anglo-Saxon"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "antho",
+      "definition": "flower",
+      "examples": [
+        "anthology",
+        "anthozoan",
+        "anthocyanin",
+        "anthophilous",
+        "anther"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "austro",
+      "definition": "south",
+      "examples": [
+        "Australopithecus",
+        "Australia",
+        "austral",
+        "Austronesia",
+        "austromancy"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "calli",
+      "definition": "beautiful",
+      "examples": [
+        "calligraphy",
+        "calliope",
+        "calisthenics",
+        "calliopsis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "cata",
+      "definition": "down",
+      "examples": [
+        "catapult",
+        "catastrophe",
+        "catacombs",
+        "catalepsy",
+        "cataclysm",
+        "cataract"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "caust",
+      "definition": "burn",
+      "examples": [
+        "caustic",
+        "holocaust",
+        "cauterize",
+        "caustically",
+        "causticity"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "cephalo",
+      "definition": "head",
+      "examples": [
+        "cephalic",
+        "cephalopod",
+        "cephalothorax",
+        "microcephalic",
+        "encephalitis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "chiro",
+      "definition": "hand",
+      "examples": [
+        "chiromancy",
+        "chiropody",
+        "chiropteran",
+        "chiropractor"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "cracy",
+      "definition": "government",
+      "examples": [
+        "autocracy",
+        "democracy",
+        "aristocracy",
+        "plutocracy",
+        "meritocracy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "err",
+      "definition": "wander",
+      "examples": [
+        "error",
+        "erratic",
+        "Knight-errant",
+        "erroneous",
+        "erratum"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "flu",
+      "definition": "flow",
+      "examples": [
+        "confluence",
+        "fluid",
+        "influence",
+        "fluent",
+        "superfluous",
+        "effluent",
+        "fluvial"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "here",
+      "definition": "stick",
+      "examples": [
+        "coherence",
+        "adhesive",
+        "adhere",
+        "inherent",
+        "incoherent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "ist",
+      "definition": "one",
+      "examples": [
+        "who      artist",
+        "funambulist",
+        "anthropologist",
+        "solipsist",
+        "centrist",
+        "atheist",
+        "sophist"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "ize",
+      "definition": "make",
+      "examples": [
+        "victimize",
+        "harmonize",
+        "temporize",
+        "mobilize",
+        "fossilize",
+        "polarize",
+        "bowdlerize"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "jur",
+      "definition": "swear",
+      "examples": [
+        "abjure",
+        "adjure",
+        "perjure",
+        "jury",
+        "jurisdiction",
+        "jurisprudence",
+        "jurist"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "mania",
+      "definition": "madness",
+      "examples": [
+        "kleptomania",
+        "egomania",
+        "pyromania",
+        "dipsomania",
+        "megalomania"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "mund",
+      "definition": "world",
+      "examples": [
+        "mundane",
+        "transmundane",
+        "intermundane",
+        "mundanity"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "pithec",
+      "definition": "ape",
+      "examples": [
+        "pithecanthropus",
+        "Australopithecus",
+        "dryopithecus",
+        "oreopithecus"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "pos",
+      "definition": "put",
+      "examples": [
+        "position",
+        "deposit",
+        "superimpose",
+        "transpose",
+        "depose",
+        "imposition"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "quadr",
+      "definition": "four",
+      "examples": [
+        "quadruped",
+        "quadratic",
+        "quadrant",
+        "quadruplet",
+        "quadrilateral",
+        "quadriplegic"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "saur",
+      "definition": "lizard",
+      "examples": [
+        "dinosaur",
+        "pterosaur",
+        "tyrannosaurus",
+        "stegosaurus",
+        "saurian",
+        "plesiosaur"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 16,
+      "stem": "sine",
+      "definition": "without",
+      "examples": [
+        "sinecure",
+        "sine qua non",
+        "sine die",
+        "sine prole"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "somn",
+      "definition": "sleep",
+      "examples": [
+        "insomnia",
+        "somniferous",
+        "somnolent",
+        "somnambulate",
+        "somniloquy"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 16,
+      "stem": "terr",
+      "definition": "land",
+      "examples": [
+        "extraterrestrial",
+        "subterranean",
+        "Mediterranean",
+        "terrain",
+        "terra firma"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "aur",
+      "definition": "gold",
+      "examples": [
+        "auriferous",
+        "auric",
+        "aureus",
+        "aurify",
+        "aurific"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "coron",
+      "definition": "crown",
+      "examples": [
+        "corona",
+        "coronation",
+        "coronary",
+        "coroner"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "flect",
+      "definition": "bend",
+      "examples": [
+        "reflect",
+        "inflection",
+        "genuflect",
+        "deflect",
+        "reflection"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "glott",
+      "definition": "tongue",
+      "examples": [
+        "epiglottis",
+        "polyglot",
+        "glossolalia",
+        "glottal",
+        "monoglot",
+        "glossectomy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 17,
+      "stem": "hist",
+      "definition": "tissue",
+      "examples": [
+        "histopathology",
+        "histolysis",
+        "histology",
+        "histogenesis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 17,
+      "stem": "lingu",
+      "definition": "tongue",
+      "examples": [
+        "bilingual",
+        "linguist",
+        "lingua franca",
+        "linguini",
+        "language"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "liter",
+      "definition": "letter",
+      "examples": [
+        "literature",
+        "illiterate",
+        "preliterate",
+        "literati"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "mens",
+      "definition": "measure",
+      "examples": [
+        "commensurate",
+        "immense",
+        "incommensurable",
+        "mensurable",
+        "dimension"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "mony",
+      "definition": "condition",
+      "examples": [
+        "acrimony",
+        "harmony",
+        "matrimony",
+        "ceremony",
+        "simony",
+        "parsimony"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "mot",
+      "definition": "move",
+      "examples": [
+        "motor",
+        "motivation",
+        "demote",
+        "emotion",
+        "motion",
+        "promote",
+        "motile",
+        "commotion"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "nav",
+      "definition": "ship",
+      "examples": [
+        "navy",
+        "naval",
+        "navigate",
+        "circumnavigate",
+        "unnavigable"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "ovi",
+      "definition": "egg",
+      "examples": [
+        "oviducts",
+        "oviparous",
+        "ovipositors",
+        "ovoviviparous",
+        "ovisac",
+        "oviform",
+        "ovary",
+        "oval"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "par",
+      "definition": "equal",
+      "examples": [
+        "parity",
+        "disparity",
+        "par",
+        "compare",
+        "incomparable"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "phan",
+      "definition": "appearance",
+      "examples": [
+        "phantom",
+        "epiphany",
+        "diaphanous",
+        "sycophant",
+        "cellophane",
+        "theophany"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 17,
+      "stem": "phasia",
+      "definition": "speech",
+      "examples": [
+        "aphasia",
+        "dysphasia",
+        "apophasis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 17,
+      "stem": "phen",
+      "definition": "appearance",
+      "examples": [
+        "phenomenon",
+        "phenotype",
+        "phosphenes",
+        "fancy",
+        "fantasy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 17,
+      "stem": "pter",
+      "definition": "wing",
+      "examples": [
+        "pterodactyl",
+        "helicopter",
+        "pterosaur",
+        "archaeopteryx",
+        "chiropteran"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 17,
+      "stem": "quin",
+      "definition": "five",
+      "examples": [
+        "quintet",
+        "quintillion",
+        "quintuplet",
+        "quintuple",
+        "quintessence",
+        "quindecagon"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "rat",
+      "definition": "think",
+      "examples": [
+        "rational",
+        "ratio",
+        "irrational",
+        "ratiocinate",
+        "rationalize"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "sis",
+      "definition": "condition",
+      "examples": [
+        "arteriosclerosis",
+        "osmosis",
+        "mitosis",
+        "meiosis",
+        "catharsis",
+        "symbiosis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 17,
+      "stem": "socio",
+      "definition": "society",
+      "examples": [
+        "sociology",
+        "sociable",
+        "socialism",
+        "sociopath",
+        "dissociate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "und",
+      "definition": "wave",
+      "examples": [
+        "inundate",
+        "undulate",
+        "undulatory",
+        "undulation"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 17,
+      "stem": "via",
+      "definition": "road",
+      "examples": [
+        "via",
+        "viaduct",
+        "trivia",
+        "deviate",
+        "obviate",
+        "obvious",
+        "via media"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "atmo",
+      "definition": "vapor",
+      "examples": [
+        "atmosphere",
+        "atmolysis",
+        "atmometer",
+        "atmospheric"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "baro",
+      "definition": "pressure",
+      "examples": [
+        "barometer",
+        "barograph",
+        "barometric",
+        "barogram",
+        "barometry"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "cardio",
+      "definition": "heart",
+      "examples": [
+        "cardiology",
+        "cardiovascular",
+        "cardiac",
+        "electrocardiogram"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "counter",
+      "definition": "against",
+      "examples": [
+        "counteract",
+        "counterproductive",
+        "counterpoint",
+        "counterinsurgency"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "cranio",
+      "definition": "skull",
+      "examples": [
+        "craniology",
+        "intracranial",
+        "craniotomy",
+        "cranium",
+        "dolichocranic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "cyclo",
+      "definition": "circle",
+      "examples": [
+        "cyclone",
+        "cyclotron",
+        "bicycle",
+        "encyclopedia",
+        "recycle",
+        "cyclical"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "ferro",
+      "definition": "iron",
+      "examples": [
+        "ferronickel",
+        "ferromagnetic",
+        "ferrous",
+        "ferric",
+        "ferrite",
+        "ferroconcrete"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "fore",
+      "definition": "front",
+      "examples": [
+        "forehead",
+        "foreboding",
+        "forecast",
+        "forethought",
+        "foresail",
+        "forefront"
+      ],
+      "origin": "Germanic"
+    },
+    {
+      "list": 18,
+      "stem": "ideo",
+      "definition": "idea",
+      "examples": [
+        "ideograph",
+        "ideology",
+        "ideologue",
+        "ideogram",
+        "id\u00e9e fixe",
+        "idealism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "ish",
+      "definition": "like",
+      "examples": [
+        "greenish",
+        "smallish",
+        "outlandish",
+        "snobbish",
+        "ghoulish",
+        "squeamish",
+        "mannish"
+      ],
+      "origin": "Germanic"
+    },
+    {
+      "list": 18,
+      "stem": "lepsy",
+      "definition": "attack",
+      "examples": [
+        "narcolepsy",
+        "epilepsy",
+        "catalepsy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "less",
+      "definition": "without",
+      "examples": [
+        "fruitless",
+        "hopeless",
+        "motherless",
+        "bootless",
+        "pointless",
+        "hapless",
+        "feckless"
+      ],
+      "origin": "Germanic"
+    },
+    {
+      "list": 18,
+      "stem": "let",
+      "definition": "little",
+      "examples": [
+        "booklet",
+        "piglet",
+        "aglet",
+        "hamlet",
+        "coverlet",
+        "omelet"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "monger",
+      "definition": "seller",
+      "examples": [
+        "fishmonger",
+        "warmonger",
+        "costermonger",
+        "ballad monger",
+        "phrasemonger"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "nano",
+      "definition": "billionth",
+      "examples": [
+        "nanosecond",
+        "nanoplankton",
+        "nanosomia",
+        "nanogram"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "nesia",
+      "definition": "island",
+      "examples": [
+        "Micronesia",
+        "Polynesia",
+        "Melanesia",
+        "Austronesia"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "oss",
+      "definition": "bone",
+      "examples": [
+        "ossify",
+        "ossuary",
+        "ossicle",
+        "osseous",
+        "ossiferous",
+        "ossein",
+        "ossification"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "pico",
+      "definition": "trillionth",
+      "examples": [
+        "picofarad",
+        "picosecond",
+        "picogram"
+      ],
+      "origin": "Celtic"
+    },
+    {
+      "list": 18,
+      "stem": "quasi",
+      "definition": "somewhat",
+      "examples": [
+        "quasar",
+        "quasi-military",
+        "quasi-stellar",
+        "quasi-official",
+        "quasi-judicial"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "sept",
+      "definition": "seven",
+      "examples": [
+        "septangular",
+        "September",
+        "septuagenarian",
+        "septillion",
+        "Septuagint"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "vas",
+      "definition": "vessel",
+      "examples": [
+        "vasoconstrictor",
+        "cardiovascular",
+        "vase",
+        "vascular",
+        "vasectomy"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 18,
+      "stem": "xeno",
+      "definition": "stranger",
+      "examples": [
+        "xenophobia",
+        "xenolith",
+        "xenon",
+        "xenogenesis",
+        "xenodiagnosis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 18,
+      "stem": "xylo",
+      "definition": "wood",
+      "examples": [
+        "xylophone",
+        "xylograph",
+        "xyloid",
+        "xylophagous",
+        "xylose",
+        "xylotomy",
+        "xylem"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "bath",
+      "definition": "deep",
+      "examples": [
+        "bathymetry",
+        "bathyscaph",
+        "bathysphere",
+        "bathos",
+        "batholith"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "calor",
+      "definition": "heat",
+      "examples": [
+        "calorie",
+        "calorimeter",
+        "calorific",
+        "caloric"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "cirr",
+      "definition": "hair",
+      "examples": [
+        "cirrus",
+        "cirrostratus",
+        "cirriped",
+        "cirrocumulus"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "cumu",
+      "definition": "heaped",
+      "examples": [
+        "accumulate",
+        "cumulus",
+        "cumulonimbus",
+        "cumulative"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "di",
+      "definition": "two",
+      "examples": [
+        "dicotyledon",
+        "dilemma",
+        "dioxide",
+        "diphthong",
+        "disyllabic",
+        "disulfide"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "fiss",
+      "definition": "split",
+      "examples": [
+        "fissile",
+        "fission",
+        "fissipalmate",
+        "fissiped",
+        "fissure"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "grav",
+      "definition": "heavy",
+      "examples": [
+        "gravity",
+        "gravid",
+        "gravimetric",
+        "gravamen",
+        "aggravate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "hibern",
+      "definition": "winter",
+      "examples": [
+        "hibernate",
+        "hibernal",
+        "hibernaculum"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "ichthy",
+      "definition": "fish",
+      "examples": [
+        "ichthyosaur",
+        "ichthyologist",
+        "ichthyoid",
+        "ichthyosis"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "kilo",
+      "definition": "thousand",
+      "examples": [
+        "kilometer",
+        "kiloton",
+        "kilowatt",
+        "kilogram"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "meteor",
+      "definition": "high",
+      "examples": [
+        "meteorite",
+        "meteoric",
+        "meteorograph",
+        "meteorology"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "mont",
+      "definition": "mountain",
+      "examples": [
+        "piedmont",
+        "Montana",
+        "Montevideo",
+        "montane",
+        "cismontane"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "myria",
+      "definition": "many",
+      "examples": [
+        "myriad",
+        "myriapod",
+        "myriameter",
+        "myriarch",
+        "myriophyullum"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "nuc",
+      "definition": "center",
+      "examples": [
+        "nucleus",
+        "nucleate",
+        "nuclide",
+        "nucleon",
+        "nucleotide",
+        "nucleoplasm"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "oma",
+      "definition": "tumor",
+      "examples": [
+        "melanoma",
+        "carcinoma",
+        "hematoma",
+        "glaucoma"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "ophthal",
+      "definition": "eye",
+      "examples": [
+        "ophthalmologist",
+        "ophthalmoscope",
+        "ophthalmic",
+        "exophthalmic"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "protero",
+      "definition": "early",
+      "examples": [
+        "Proterozoic",
+        "proterandrous",
+        "proteranthous"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "pulse",
+      "definition": "drive",
+      "examples": [
+        "impulse",
+        "repulse",
+        "pulsate",
+        "impulsive"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "rub",
+      "definition": "red",
+      "examples": [
+        "rubric",
+        "rubious",
+        "rubicund",
+        "ruby",
+        "rubescent",
+        "rubella"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "sat",
+      "definition": "enough",
+      "examples": [
+        "satsify",
+        "dissatisfaction",
+        "saturate",
+        "insatiable",
+        "sate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "sol",
+      "definition": "sun",
+      "examples": [
+        "solar",
+        "solstice",
+        "solarium",
+        "solarize",
+        "solar plexus"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "solv",
+      "definition": "loosen",
+      "examples": [
+        "resolve",
+        "dissolve",
+        "absolve",
+        "solvent",
+        "insolvency"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "strat",
+      "definition": "layer",
+      "examples": [
+        "stratiography",
+        "stratosphere",
+        "cirrostratus",
+        "strata",
+        "substratum",
+        "stratified"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 19,
+      "stem": "tachy",
+      "definition": "quick",
+      "examples": [
+        "tachometer",
+        "tachycardia",
+        "tachylyte",
+        "tachygraphy"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 19,
+      "stem": "ven",
+      "definition": "come",
+      "examples": [
+        "convene",
+        "convention",
+        "avenue",
+        "vent",
+        "circumvent",
+        "advent",
+        "prevent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "dendr",
+      "definition": "tree",
+      "examples": [
+        "dendrology",
+        "dendroid",
+        "dendrochronology",
+        "dendrite",
+        "rhododendron"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 20,
+      "stem": "digit",
+      "definition": "finger",
+      "examples": [
+        "prestidigitation",
+        "digital",
+        "digitation"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "foli",
+      "definition": "leaf",
+      "examples": [
+        "folio",
+        "foliolate",
+        "bifoliolate",
+        "foliation",
+        "defoliate",
+        "portfolio",
+        "folium"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "grade",
+      "definition": "step",
+      "examples": [
+        "gradual",
+        "grading",
+        "retrograde",
+        "downgrade",
+        "gradualism",
+        "degrading"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "gymno",
+      "definition": "naked",
+      "examples": [
+        "gymnasium",
+        "gymnastics",
+        "gymnosperm",
+        "gymnosophist"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 20,
+      "stem": "hemi",
+      "definition": "half",
+      "examples": [
+        "hemisphere",
+        "hemialgia",
+        "hemiplegia",
+        "hemipterous",
+        "hemicrania"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 20,
+      "stem": "ign",
+      "definition": "fire",
+      "examples": [
+        "ignite",
+        "igneous",
+        "ignis fatuus",
+        "ignition",
+        "reignite",
+        "ignescent",
+        "ignitron"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "lachry",
+      "definition": "tear",
+      "examples": [
+        "lachrymose",
+        "lachrymatory",
+        "lachrymal"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "lign",
+      "definition": "wood",
+      "examples": [
+        "lignite",
+        "lignify",
+        "ligneous",
+        "lignocellulose"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "lin",
+      "definition": "line",
+      "examples": [
+        "linear",
+        "delineate",
+        "lineation",
+        "lineal",
+        "rectilinear",
+        "lineage"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "mela",
+      "definition": "black",
+      "examples": [
+        "melanin",
+        "melanite",
+        "melancholy",
+        "Melanesia",
+        "melanoma",
+        "melanocyte"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 20,
+      "stem": "moll",
+      "definition": "soft",
+      "examples": [
+        "mollify",
+        "emollient",
+        "mollusk",
+        "mollescent"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "multi",
+      "definition": "many",
+      "examples": [
+        "multifarious",
+        "multitudinous",
+        "multilateral",
+        "multiped",
+        "multiply"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "narco",
+      "definition": "sleep",
+      "examples": [
+        "narcotic",
+        "narcolepsy",
+        "narcotine",
+        "narcotism"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 20,
+      "stem": "ob",
+      "definition": "against",
+      "examples": [
+        "obloquy",
+        "objurgation",
+        "obdurate",
+        "obsequious",
+        "oblique",
+        "obsolete",
+        "obstinate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "oo",
+      "definition": "egg",
+      "examples": [
+        "oophyte",
+        "oocyte",
+        "oology",
+        "oogenesis",
+        "oogonium",
+        "oophorectomy",
+        "oospore"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 20,
+      "stem": "orb",
+      "definition": "circle",
+      "examples": [
+        "orbit",
+        "exorbitant",
+        "orbital",
+        "orbicular",
+        "orbital decay",
+        "supraorbital"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "oscu",
+      "definition": "mouth",
+      "examples": [
+        "osculum",
+        "osculation",
+        "osculant",
+        "osculate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "plasm",
+      "definition": "form",
+      "examples": [
+        "cytoplasm",
+        "endoplasm",
+        "ectoplasm",
+        "plasma",
+        "plasmodium"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 20,
+      "stem": "pneumo",
+      "definition": "lung",
+      "examples": [
+        "pneumogastric",
+        "pneumonia",
+        "pneumonectomy",
+        "pneumobacillus"
+      ],
+      "origin": "Greek"
+    },
+    {
+      "list": 20,
+      "stem": "radi",
+      "definition": "ray",
+      "examples": [
+        "radiation",
+        "radian",
+        "radial",
+        "radiolarian",
+        "radiance",
+        "irradiate"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "vect",
+      "definition": "carry",
+      "examples": [
+        "convection",
+        "vector",
+        "invective",
+        "vectorial"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "vermi",
+      "definition": "worm",
+      "examples": [
+        "vermin",
+        "vermicelli",
+        "vermicide",
+        "vermivorous"
+      ],
+      "origin": "Latin"
+    },
+    {
+      "list": 20,
+      "stem": "vice",
+      "definition": "in",
+      "examples": [
+        "place of   vice versa",
+        "vice president",
+        "vice consul",
+        "viceroy",
+        "vice-regent"
+      ],
+      "origin": "Latin"
+    }
+  ]
+}
